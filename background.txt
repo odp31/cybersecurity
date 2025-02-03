@@ -1,0 +1,25 @@
+Addresses 4 Aspects:
+1. Confidentiality
+  - information transmitted between senders and receivers should be accessible only to the corresponding parties
+2. Authetnication
+  - determining that the information you're getting is from the source it claims to come from
+3. Integrity
+  - infomraitn you have accessed must be original, intact and complete
+4. Availability
+  - information you are authorized to access is always accessible
+
+
+WHAT IS ENCRYPTION?
+  - cipher encyrption; letters in the text are shifted a fixed number of places down the alphabet to make them unreadable 
+
+PRIVATE KEY ENCRYPTION (SYMMETRIC KEY)
+  - sender and receiver use same key to encrypt the message and to decrypt the message 
+  - because both parties use the same key, its also called symmetric key encryption 
+  - Advanced Encryption Standard (AES)
+    - most popular private key encryption 
+PUBLIC KEY ENCRPYTION (ASYMMETRIC KEY)
+  - sender and reciever use different keys to encrpty message and decrypt message 
+
+HASH FUNCTION
+- turns a large, long text message into a short, fixed-length message called a message digest 
+= when the long tet message changes, the short message digest will also change 
